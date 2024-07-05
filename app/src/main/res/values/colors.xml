@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkash">#817D7D</color>
+    <color name="ash">#CAC1CC</color>
+    <color name="lightred">#D5405E</color>
+    <color name="red">#C12242</color>
+    <color name="yellow">#E8BC3A</color>
+    <color name="daarkred">#4C0A1D</color>
+    <color name="laash">#E8E0E2</color>
+    <color name="laash2">#F6F3F4</color>
+    <color name="lightOran">#E72536</color>
+    <color name="lightYellow">#E18CA9</color>
+    <color name="oran">#FF5722</color>
+    <color name="blue">#4D5DE8</color>
+</resources>
